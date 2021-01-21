@@ -1,5 +1,5 @@
-# Select-Kth-Value
-Given a list of n numbers, the Selection Problem is to find the kth smallest element in the list.
+# Selection-Problem
+Given a list of n numbers, Selection Problem is to find the kth smallest element in the list.
 
 ## Algorithms
 ### MergeSort
